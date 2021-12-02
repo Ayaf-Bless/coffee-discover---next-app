@@ -1,0 +1,16 @@
+.button{
+    color: white;
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 1.5rem 1rem;
+    border: none;
+    font-weight: 500;
+}
+.buttonPrimary{
+    background: #08410b;
+}
+.buttonSecondary{
+    border: solid 1px #08410b;
+    background: transparent;
+    color: #08410b;
+}
