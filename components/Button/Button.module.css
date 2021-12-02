@@ -6,6 +6,10 @@
     border: none;
     font-weight: 500;
 }
+.button:hover,
+.button:focus{
+    transform: translateY(1px);
+}
 .buttonPrimary{
     background: #08410b;
 }

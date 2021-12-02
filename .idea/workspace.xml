@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac83ecf-de5e-43a1-be4f-31361631d30e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Banner/Banner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Banner/Banner.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Button/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Button/Button.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/hero-image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/icons/nearMe.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/icons/places.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/static/icons/star.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/coffee-store/[id].js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Banner/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Banner/Banner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Banner/Banner.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Banner/Banner.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Button/Button.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Button/Button.module.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -99,7 +90,10 @@
       <option name="presentableId" value="Default" />
       <updated>1638442059235</updated>
       <workItem from="1638442061379" duration="124000" />
-      <workItem from="1638442240345" duration="8826000" />
+      <workItem from="1638442240345" duration="8921000" />
+      <workItem from="1638452267564" duration="2777000" />
+      <workItem from="1638459918256" duration="1049000" />
+      <workItem from="1638471552746" duration="2619000" />
     </task>
     <servers />
   </component>
@@ -116,5 +110,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
