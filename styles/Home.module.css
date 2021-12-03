@@ -1,0 +1,11 @@
+
+.cardLayout{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.h2{
+    font-size: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: #08410b;
+}
