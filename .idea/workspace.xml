@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ac83ecf-de5e-43a1-be4f-31361631d30e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/Card/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Card/Card.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/coffee-stores.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/cofeeStore.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/coffee-store/[id].js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/coffee-store/[id].js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +92,10 @@
       <workItem from="1638459918256" duration="1049000" />
       <workItem from="1638471552746" duration="2676000" />
       <workItem from="1638477664723" duration="44000" />
-      <workItem from="1638513086247" duration="13309000" />
+      <workItem from="1638513086247" duration="13407000" />
+      <workItem from="1638627368521" duration="2986000" />
+      <workItem from="1638708084749" duration="1950000" />
+      <workItem from="1638717827567" duration="3865000" />
     </task>
     <servers />
   </component>
