@@ -1,0 +1,23 @@
+.back {
+    font-size: 2rem;
+    text-decoration: none;
+    color: #08410b;
+    margin: 2rem;
+}
+.container{
+    margin: 1.5rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2{
+    font-size: 2rem;
+    text-align: center;
+    text-transform: uppercase;
+    color: #08410b;
+}
+.para{
+    font-size: 1.6rem;
+}

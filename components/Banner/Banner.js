@@ -7,7 +7,7 @@ function Banner({ buttonText, handleClick }) {
     <div className={styles.container}>
       <h1 className={styles.title}>coffee discover</h1>
       <p className={styles.subtitle}>Discover your local coffee store</p>
-      <Button>{buttonText}</Button>
+      <Button handler={handleClick}>{buttonText}</Button>
     </div>
   );
 }
