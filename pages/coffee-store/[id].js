@@ -28,7 +28,7 @@ function Index({ coffeeStore }) {
         <div>
           <Image src={imgUrl} alt={name} width={300} height={300} />
           <div>
-            <h2 className={styles.h2}>{name}</h2>
+            <h1 className={styles.h2}>{name}</h1>
             <p className={styles.para}>{websiteUrl}</p>
             <p className={styles.para}>{address}</p>
             <Button
