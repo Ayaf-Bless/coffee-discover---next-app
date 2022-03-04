@@ -12,6 +12,7 @@ STOP_HERE.txt
 # next.js
 /.next/
 /out/
+/*/**/.idea/
 
 # production
 /build

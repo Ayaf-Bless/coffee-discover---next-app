@@ -31,6 +31,7 @@ function Index({ coffeeStore }) {
             <h1 className={styles.h2}>{name}</h1>
             <p className={styles.para}>{websiteUrl}</p>
             <p className={styles.para}>{address}</p>
+            <p className={styles.para}>Up voted: 1</p>
             <Button
               styleButton={"secondary"}
               handler={() => console.log("up vote")}
